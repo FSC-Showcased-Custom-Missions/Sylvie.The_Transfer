@@ -2,7 +2,9 @@
 
 ## Mission Briefing
 Coordinator: Hoax
+
 Client: Yourself
+
 Date: Oct. 24th, 2017
 
 "A tome the Adversarialists are after is currently stuck pending for transfer in a government storage facility underground; you're going in to grab the tome before the cult gets it delivered to them, as well as get data on artifacts and shipments from the building's servers. I hope your injuries from last mission weren't too bad - you're going to need your strength for this one."
