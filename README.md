@@ -11,7 +11,9 @@ Client: Yourself
 ~Hoax
 
 ## Other info:
-[Any Tactic] [Decent Intel]
+[Any Tactic]
+
+[Decent Intel]
 Mission type: Robbery & Espionage
 
 The mission is designed to be comfortably completable on Legend at level 30 if you know the mission and have a plan, and Recruit is doable without perks or contact network unlocks
