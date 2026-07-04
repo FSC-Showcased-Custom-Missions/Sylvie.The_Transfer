@@ -15,7 +15,7 @@ Client: Yourself
 
 [Decent Intel]
 
-Mission type: Robbery & Espionage
+Mission type: Heist
 
 The mission is designed to be comfortably completable on Legend at level 30 if you know the mission and have a plan, and Recruit is doable without perks or contact network unlocks
 
